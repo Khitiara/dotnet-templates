@@ -1,0 +1,30 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Khitiara",
+  "identity": "Khitiara.SlnTemplate",
+  "name": "Basic Solution Template",
+  "tags": {
+    "language": "C#",
+    "type": "solution"
+  },
+  "sourceName": "Khitiara.SlnTemplate",
+  "shortName": "Khitiara.Sln",
+  "preferDefaultName": true,
+  "exclude": [
+    "**/[Bb]in/**",
+    "**/[Oo]bj/**",
+    ".template.config/**/*",
+    "**/*.filelist",
+    "**/*.user",
+    "**/*.lock.json",
+    "**/.idea/**/*"
+  ],
+  "classifications": [
+    "Common"
+  ],
+  "guids": [
+    "{2150E333-8FDC-42A3-9474-1A3956D46DE8}",
+    "{713DCCBC-FB32-4638-8BD9-0A924EB33B6D}",
+    "{85FE1487-6A0C-4DAA-A404-AFC40FC401D8}"
+  ]
+}
